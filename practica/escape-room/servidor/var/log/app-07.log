@@ -1,0 +1,40 @@
+2026-10-08 08:00:54 [db] INFO Cache renovada
+2026-10-08 08:07:12 [db] INFO Usuario autenticado
+2026-10-08 08:14:29 [db] INFO Usuario autenticado
+2026-10-08 08:21:39 [db] INFO Cache renovada
+2026-10-08 08:28:14 [db] INFO Conexion abierta desde 10.0.0.231
+2026-10-08 08:35:38 [db] INFO Servicio iniciado correctamente
+2026-10-08 09:42:13 [db] INFO Conexion cerrada
+2026-10-08 09:49:26 [db] WARN Reintentando conexion
+2026-10-08 09:56:25 [db] WARN Uso de memoria al 75%
+2026-10-08 09:03:07 [db] INFO Copia de seguridad completada
+2026-10-08 09:10:12 [db] INFO Conexion abierta desde 10.0.0.86
+2026-10-08 09:17:19 [db] INFO Comprobacion de salud OK
+2026-10-08 10:24:23 [db] INFO Conexion cerrada
+2026-10-08 10:31:06 [db] INFO Comprobacion de salud OK
+2026-10-08 10:38:22 [db] WARN Respuesta lenta: 72 ms
+2026-10-08 10:45:48 [db] INFO Peticion atendida en 145 ms
+2026-10-08 10:52:52 [db] INFO Copia de seguridad completada
+2026-10-08 10:59:03 [db] INFO Conexion cerrada
+2026-10-08 11:06:34 [db] INFO Usuario autenticado
+2026-10-08 11:13:23 [db] INFO Usuario autenticado
+2026-10-08 11:20:40 [db] INFO Comprobacion de salud OK
+2026-10-08 11:27:24 [db] INFO Conexion cerrada
+2026-10-08 11:34:58 [db] WARN Uso de memoria al 95%
+2026-10-08 11:41:04 [db] WARN Uso de memoria al 93%
+2026-10-08 12:48:17 [db] INFO Copia de seguridad completada
+2026-10-08 12:55:47 [db] INFO Servicio iniciado correctamente
+2026-10-08 12:02:17 [db] INFO Copia de seguridad completada
+2026-10-08 12:09:52 [db] INFO Peticion atendida en 8 ms
+2026-10-08 12:16:29 [db] INFO Comprobacion de salud OK
+2026-10-08 12:23:16 [db] INFO Conexion cerrada
+2026-10-08 13:30:59 [db] INFO Comprobacion de salud OK
+2026-10-08 13:37:59 [db] INFO Servicio iniciado correctamente
+2026-10-08 13:44:15 [db] INFO Conexion abierta desde 10.0.0.157
+2026-10-08 13:51:23 [db] INFO Copia de seguridad completada
+2026-10-08 13:58:12 [db] INFO Peticion atendida en 133 ms
+2026-10-08 13:05:26 [db] INFO Conexion abierta desde 10.0.0.65
+2026-10-08 14:12:35 [db] WARN Uso de memoria al 85%
+2026-10-08 14:19:56 [db] INFO Conexion abierta desde 10.0.0.111
+2026-10-08 14:26:39 [db] WARN Uso de memoria al 78%
+2026-10-08 14:33:31 [db] WARN Uso de memoria al 83%

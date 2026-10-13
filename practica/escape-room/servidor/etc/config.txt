@@ -1,0 +1,10 @@
+# Configuracion del servidor
+puerto=8080
+idioma=es
+copias_seguridad=diarias
+
+# Aqui no hay ningun fragmento.
+# Los archivos de configuracion sensibles suelen estar ocultos:
+# su nombre empieza por un punto.
+#   Mac/Linux:  ls -a
+#   Windows:    ls -Force   (en Windows se ven tambien con ls)

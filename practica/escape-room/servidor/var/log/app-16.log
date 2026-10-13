@@ -1,0 +1,40 @@
+2026-10-08 08:00:20 [auth] INFO Peticion atendida en 122 ms
+2026-10-08 08:07:23 [auth] INFO Conexion cerrada
+2026-10-08 08:14:15 [auth] INFO Conexion abierta desde 10.0.0.114
+2026-10-08 08:21:45 [auth] INFO Servicio iniciado correctamente
+2026-10-08 08:28:59 [auth] INFO Servicio iniciado correctamente
+2026-10-08 08:35:39 [auth] INFO Peticion atendida en 241 ms
+2026-10-08 09:42:28 [auth] INFO Conexion abierta desde 10.0.0.201
+2026-10-08 09:49:01 [auth] INFO Conexion cerrada
+2026-10-08 09:56:21 [auth] INFO Comprobacion de salud OK
+2026-10-08 09:03:07 [auth] INFO Usuario autenticado
+2026-10-08 09:10:14 [auth] INFO Conexion abierta desde 10.0.0.86
+2026-10-08 09:17:28 [auth] INFO Conexion abierta desde 10.0.0.184
+2026-10-08 10:24:55 [auth] INFO Conexion abierta desde 10.0.0.114
+2026-10-08 10:31:15 [auth] INFO Conexion cerrada
+2026-10-08 10:38:53 [auth] INFO Cache renovada
+2026-10-08 10:45:31 [auth] INFO Conexion abierta desde 10.0.0.68
+2026-10-08 10:52:30 [auth] WARN Respuesta lenta: 98 ms
+2026-10-08 10:59:40 [auth] WARN Reintentando conexion
+2026-10-08 11:06:30 [auth] INFO Usuario autenticado
+2026-10-08 11:13:48 [auth] INFO Peticion atendida en 67 ms
+2026-10-08 11:20:16 [auth] INFO Copia de seguridad completada
+2026-10-08 11:27:24 [auth] INFO Usuario autenticado
+2026-10-08 11:34:53 [auth] INFO Conexion abierta desde 10.0.0.16
+2026-10-08 11:41:40 [auth] INFO Cache renovada
+2026-10-08 12:48:32 [auth] WARN Reintentando conexion
+2026-10-08 12:55:53 [auth] INFO Servicio iniciado correctamente
+2026-10-08 12:02:23 [auth] INFO Cache renovada
+2026-10-08 12:09:17 [auth] INFO Conexion cerrada
+2026-10-08 12:16:11 [auth] INFO Conexion abierta desde 10.0.0.217
+2026-10-08 12:23:11 [auth] INFO Usuario autenticado
+2026-10-08 13:30:05 [auth] INFO Peticion atendida en 214 ms
+2026-10-08 13:37:17 [auth] INFO Comprobacion de salud OK
+2026-10-08 13:44:42 [auth] INFO Conexion abierta desde 10.0.0.158
+2026-10-08 13:51:19 [auth] INFO Usuario autenticado
+2026-10-08 13:58:46 [auth] INFO Peticion atendida en 179 ms
+2026-10-08 13:05:51 [auth] INFO Servicio iniciado correctamente
+2026-10-08 14:12:40 [auth] INFO Cache renovada
+2026-10-08 14:19:00 [auth] INFO Comprobacion de salud OK
+2026-10-08 14:26:55 [auth] INFO Comprobacion de salud OK
+2026-10-08 14:33:36 [auth] INFO Usuario autenticado

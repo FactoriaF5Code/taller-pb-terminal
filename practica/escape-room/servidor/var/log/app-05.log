@@ -1,0 +1,40 @@
+2026-10-08 08:00:59 [backup] WARN Uso de memoria al 93%
+2026-10-08 08:07:33 [backup] INFO Peticion atendida en 170 ms
+2026-10-08 08:14:16 [backup] WARN Reintentando conexion
+2026-10-08 08:21:46 [backup] INFO Cache renovada
+2026-10-08 08:28:41 [backup] INFO Usuario autenticado
+2026-10-08 08:35:24 [backup] INFO Comprobacion de salud OK
+2026-10-08 09:42:49 [backup] WARN Reintentando conexion
+2026-10-08 09:49:12 [backup] WARN Reintentando conexion
+2026-10-08 09:56:16 [backup] WARN Uso de memoria al 80%
+2026-10-08 09:03:36 [backup] INFO Cache renovada
+2026-10-08 09:10:31 [backup] INFO Comprobacion de salud OK
+2026-10-08 09:17:13 [backup] INFO Peticion atendida en 179 ms
+2026-10-08 10:24:33 [backup] INFO Cache renovada
+2026-10-08 10:31:49 [backup] INFO Comprobacion de salud OK
+2026-10-08 10:38:19 [backup] WARN Reintentando conexion
+2026-10-08 10:45:18 [backup] INFO Comprobacion de salud OK
+2026-10-08 10:52:24 [backup] INFO Comprobacion de salud OK
+2026-10-08 10:59:37 [backup] INFO Usuario autenticado
+2026-10-08 11:06:16 [backup] WARN Reintentando conexion
+2026-10-08 11:13:52 [backup] INFO Conexion abierta desde 10.0.0.156
+2026-10-08 11:20:07 [backup] INFO Cache renovada
+2026-10-08 11:27:57 [backup] INFO Usuario autenticado
+2026-10-08 11:34:10 [backup] INFO Conexion cerrada
+2026-10-08 11:41:28 [backup] WARN Respuesta lenta: 91 ms
+2026-10-08 12:48:22 [backup] INFO Conexion abierta desde 10.0.0.108
+2026-10-08 12:55:21 [backup] INFO Peticion atendida en 217 ms
+2026-10-08 12:02:25 [backup] WARN Respuesta lenta: 96 ms
+2026-10-08 12:09:00 [backup] INFO Usuario autenticado
+2026-10-08 12:16:23 [backup] INFO Cache renovada
+2026-10-08 12:23:37 [backup] WARN Respuesta lenta: 97 ms
+2026-10-08 13:30:17 [backup] WARN Respuesta lenta: 94 ms
+2026-10-08 13:37:03 [backup] INFO Cache renovada
+2026-10-08 13:44:59 [backup] INFO Cache renovada
+2026-10-08 13:51:32 [backup] INFO Cache renovada
+2026-10-08 13:58:27 [backup] INFO Copia de seguridad completada
+2026-10-08 13:05:56 [backup] INFO Conexion cerrada
+2026-10-08 14:12:05 [backup] INFO Usuario autenticado
+2026-10-08 14:19:28 [backup] WARN Reintentando conexion
+2026-10-08 14:26:55 [backup] INFO Conexion abierta desde 10.0.0.166
+2026-10-08 14:33:59 [backup] INFO Servicio iniciado correctamente

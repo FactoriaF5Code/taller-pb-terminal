@@ -1,0 +1,40 @@
+2026-10-08 08:00:33 [api] INFO Cache renovada
+2026-10-08 08:07:00 [api] INFO Copia de seguridad completada
+2026-10-08 08:14:18 [api] INFO Usuario autenticado
+2026-10-08 08:21:32 [api] INFO Conexion cerrada
+2026-10-08 08:28:31 [api] INFO Servicio iniciado correctamente
+2026-10-08 08:35:03 [api] INFO Servicio iniciado correctamente
+2026-10-08 09:42:06 [api] WARN Respuesta lenta: 79 ms
+2026-10-08 09:49:37 [api] INFO Usuario autenticado
+2026-10-08 09:56:23 [api] INFO Conexion abierta desde 10.0.0.54
+2026-10-08 09:03:08 [api] INFO Comprobacion de salud OK
+2026-10-08 09:10:09 [api] WARN Uso de memoria al 92%
+2026-10-08 09:17:09 [api] INFO Peticion atendida en 165 ms
+2026-10-08 10:24:51 [api] INFO Cache renovada
+2026-10-08 10:31:41 [api] INFO Servicio iniciado correctamente
+2026-10-08 10:38:41 [api] INFO Copia de seguridad completada
+2026-10-08 10:45:10 [api] INFO Comprobacion de salud OK
+2026-10-08 10:52:34 [api] INFO Servicio iniciado correctamente
+2026-10-08 10:59:10 [api] WARN Uso de memoria al 77%
+2026-10-08 11:06:39 [api] WARN Uso de memoria al 70%
+2026-10-08 11:13:26 [api] INFO Usuario autenticado
+2026-10-08 11:20:39 [api] INFO Conexion cerrada
+2026-10-08 11:27:19 [api] INFO Cache renovada
+2026-10-08 11:34:34 [api] INFO Comprobacion de salud OK
+2026-10-08 11:41:58 [api] WARN Respuesta lenta: 93 ms
+2026-10-08 12:48:14 [api] INFO Comprobacion de salud OK
+2026-10-08 12:55:41 [api] INFO Cache renovada
+2026-10-08 12:02:47 [api] WARN Respuesta lenta: 98 ms
+2026-10-08 12:09:03 [api] INFO Cache renovada
+2026-10-08 12:16:50 [api] INFO Conexion cerrada
+2026-10-08 12:23:41 [api] INFO Cache renovada
+2026-10-08 13:30:56 [api] INFO Usuario autenticado
+2026-10-08 13:37:57 [api] INFO Conexion abierta desde 10.0.0.68
+2026-10-08 13:44:10 [api] INFO Usuario autenticado
+2026-10-08 13:51:56 [api] INFO Copia de seguridad completada
+2026-10-08 13:58:58 [api] INFO Usuario autenticado
+2026-10-08 13:05:53 [api] INFO Comprobacion de salud OK
+2026-10-08 14:12:01 [api] INFO Servicio iniciado correctamente
+2026-10-08 14:19:56 [api] INFO Usuario autenticado
+2026-10-08 14:26:39 [api] INFO Usuario autenticado
+2026-10-08 14:33:02 [api] INFO Conexion abierta desde 10.0.0.39

@@ -1,0 +1,6 @@
+FRAGMENTO 3:  COMANDO
+
+Siguiente paso:
+  En servidor/tmp hay decenas de archivos temporales.
+  Entre ellos hay UNA llave de acceso con extension .key
+  Encuentrala filtrando por extension, no leyendo todo.

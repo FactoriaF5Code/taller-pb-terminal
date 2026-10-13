@@ -1,0 +1,4 @@
+- Renovar certificado SSL
+- Revisar copias de seguridad
+- Actualizar el sistema operativo
+- Cambiar la contrasena de administracion (HECHO)

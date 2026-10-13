@@ -1,0 +1,40 @@
+2026-10-08 08:00:57 [api] INFO Servicio iniciado correctamente
+2026-10-08 08:07:25 [api] INFO Conexion cerrada
+2026-10-08 08:14:25 [api] INFO Comprobacion de salud OK
+2026-10-08 08:21:28 [api] WARN Uso de memoria al 76%
+2026-10-08 08:28:03 [api] INFO Copia de seguridad completada
+2026-10-08 08:35:34 [api] WARN Reintentando conexion
+2026-10-08 09:42:01 [api] WARN Respuesta lenta: 89 ms
+2026-10-08 09:49:24 [api] WARN Uso de memoria al 89%
+2026-10-08 09:56:22 [api] INFO Cache renovada
+2026-10-08 09:03:07 [api] INFO Comprobacion de salud OK
+2026-10-08 09:10:30 [api] INFO Comprobacion de salud OK
+2026-10-08 09:17:47 [api] INFO Conexion abierta desde 10.0.0.28
+2026-10-08 10:24:53 [api] INFO Cache renovada
+2026-10-08 10:31:33 [api] INFO Servicio iniciado correctamente
+2026-10-08 10:38:33 [api] INFO Servicio iniciado correctamente
+2026-10-08 10:45:54 [api] INFO Peticion atendida en 180 ms
+2026-10-08 10:52:10 [api] INFO Copia de seguridad completada
+2026-10-08 10:59:34 [api] INFO Usuario autenticado
+2026-10-08 11:06:14 [api] INFO Copia de seguridad completada
+2026-10-08 11:13:15 [api] INFO Usuario autenticado
+2026-10-08 11:20:33 [api] INFO Usuario autenticado
+2026-10-08 11:27:50 [api] INFO Servicio iniciado correctamente
+2026-10-08 11:34:44 [api] INFO Cache renovada
+2026-10-08 11:41:51 [api] INFO Copia de seguridad completada
+2026-10-08 12:48:23 [api] INFO Copia de seguridad completada
+2026-10-08 12:55:30 [api] WARN Uso de memoria al 77%
+2026-10-08 12:02:39 [api] INFO Usuario autenticado
+2026-10-08 12:09:58 [api] INFO Servicio iniciado correctamente
+2026-10-08 12:16:42 [api] INFO Peticion atendida en 215 ms
+2026-10-08 12:23:45 [api] WARN Respuesta lenta: 95 ms
+2026-10-08 13:30:11 [api] INFO Comprobacion de salud OK
+2026-10-08 13:37:51 [api] INFO Copia de seguridad completada
+2026-10-08 13:44:25 [api] INFO Conexion cerrada
+2026-10-08 13:51:10 [api] INFO Peticion atendida en 187 ms
+2026-10-08 13:58:09 [api] INFO Conexion abierta desde 10.0.0.9
+2026-10-08 13:05:41 [api] INFO Comprobacion de salud OK
+2026-10-08 14:12:59 [api] INFO Comprobacion de salud OK
+2026-10-08 14:19:00 [api] INFO Conexion abierta desde 10.0.0.7
+2026-10-08 14:26:47 [api] INFO Peticion atendida en 136 ms
+2026-10-08 14:33:12 [api] INFO Conexion cerrada

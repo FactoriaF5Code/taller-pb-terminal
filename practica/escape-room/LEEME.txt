@@ -1,0 +1,23 @@
+==============================================================
+  ESCAPE ROOM DE TERMINAL - INCIDENTE EN EL SERVIDOR
+==============================================================
+
+Situacion:
+Eres parte del equipo de sistemas. Alguien ha cambiado la
+contrasena de administracion de un servidor y ha repartido
+la nueva en 4 fragmentos escondidos por sus carpetas.
+
+Tu mision: recuperar los 4 fragmentos usando SOLO la terminal.
+Nada de explorador de archivos.
+
+Reglas:
+  - Puedes usar: pwd, ls, cd, cat, head, tail, grep / sls,
+    find, mkdir, mv, echo.
+  - Apunta cada fragmento en cuanto lo encuentres.
+  - Si te pierdes: pwd para saber donde estas.
+
+Primera pista:
+  El administrador siempre deja notas en su carpeta personal.
+  En este servidor esta en:   servidor/home/admin
+
+Buena suerte.

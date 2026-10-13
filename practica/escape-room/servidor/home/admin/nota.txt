@@ -1,0 +1,14 @@
+Nota del administrador
+----------------------
+
+FRAGMENTO 1:  TERMINAL
+
+Si estas leyendo esto, sabes moverte por carpetas.
+
+Siguiente paso:
+  Revisa los registros de la aplicacion en  servidor/var/log
+  Hay muchos archivos. Solo uno registra un ERROR.
+  No los abras uno a uno: busca la palabra ERROR dentro de todos.
+
+  Mac/Linux:  grep -r ...
+  Windows:    sls ...
