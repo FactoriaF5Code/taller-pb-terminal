@@ -309,8 +309,8 @@ Windows:    cd ~/Downloads; mkdir pdf, imagenes -ea 0; mv *.pdf pdf/; mv *.jpg i
 
 **Hacer una copia de seguridad con la fecha en el nombre**
 ```
-Mac/Linux:  cp -r ~/Documents/proyecto ~/backups/proyecto-$(date +%Y-%m-%d)
-Windows:    cp -r ~/Documents/proyecto ~/backups/proyecto-$(Get-Date -Format yyyy-MM-dd)
+Mac/Linux:  mkdir -p ~/backups && cp -r ~/Documents/proyecto ~/backups/proyecto-$(date +%Y-%m-%d)
+Windows:    mkdir ~/backups -ea 0; cp -r ~/Documents/proyecto ~/backups/proyecto-$(Get-Date -Format yyyy-MM-dd)
 ```
 
 **Comprimir una carpeta para enviarla**
