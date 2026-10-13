@@ -125,6 +125,8 @@ La carpeta de Descargas de casi cualquier persona acaba así: facturas, nóminas
 
 **1. Prepara el escenario.** Copia el bloque de tu sistema, pégalo en la terminal y pulsa Enter.
 
+Windows: si aparece un aviso de que vas a pegar varias líneas, pulsa **Pegar de todos modos**.
+
 Mac / Linux:
 ```
 mkdir -p ~/taller/descargas-prueba

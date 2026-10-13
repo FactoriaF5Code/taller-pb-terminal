@@ -24,7 +24,7 @@
 | Saber dónde está un programa | `which ls` | `Get-Command ls` |
 | Ver las carpetas del PATH | `echo $PATH` | `$env:PATH -split ";"` |
 | Ver si un programa está instalado y su versión | `python3 --version` | `python --version` |
-| Ver la ayuda de un comando | `man ping` (sal con `q`) o `ping --help` | `Get-Help ping` o `ping /?` |
+| Ver la ayuda de un comando | `man ping` (sal con `q`) o `ping --help` | `Get-Help ping` o `ping /?`. Si pregunta por `Update-Help`, responde `N` |
 
 ### Abrir programas y webs
 

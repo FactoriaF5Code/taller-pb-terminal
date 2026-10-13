@@ -35,6 +35,8 @@ Para crear, mover y borrar trabajamos siempre dentro de una carpeta de práctica
 
 💡 `ni` es la abreviatura de `New-Item` en PowerShell. `touch` no existe en Windows.
 
+💡 **Windows:** `mkdir` y `ni` muestran una pequeña tabla con lo que acaban de crear. Es normal: en PowerShell, a veces el éxito no es silencioso.
+
 💡 **En `nano`:** guarda con **Ctrl + O** y Enter. Sal con **Ctrl + X**. Los atajos están abajo de la pantalla (`^` significa Ctrl).
 
 ---
